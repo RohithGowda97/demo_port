@@ -1,4 +1,4 @@
-# 🚀 Your Own Portfolio Portfolio  
+# 🚀 Your Own Portfolio 
 
 Welcome to my personal portfolio! This website showcases my work, projects, and experiences as an aspiring AI Developer.  
 
