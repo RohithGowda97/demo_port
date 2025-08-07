@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This website showcases my work, projects, and experiences as an aspiring AI Developer.  
 
 ## 🌐 Live Website  
-[Visit My Portfolio](https://demoport.vercel.app/)  
+[Visit My Portfolio](https://demo_port.vercel.app/)  
 
 ## 📌 Features  
 - **Projects** – A collection of my technical work.  
